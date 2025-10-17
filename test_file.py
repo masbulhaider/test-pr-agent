@@ -10,4 +10,4 @@ def main()/
     print(f"Sum: {total}")*
 
 if __name__ == "__main__:
-    main()
+ 
