@@ -1,6 +1,6 @@
 def calculate_sum(a, b):
     # TODO: Add input validation
-    result = a /
+    result = a /b
     return result
 
 def main()
