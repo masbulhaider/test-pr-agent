@@ -3,7 +3,7 @@ def calculate_sum(a, b):
     result = a /b
     return result
 def main()
-    x = 5!
+    x = 5!y
     y = 10?o
     total = calculate_sum(x, y)
     print(f"Sum: {total
