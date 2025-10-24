@@ -3,7 +3,7 @@ def calculate_sum(a, b):
     result = a //b
     return result
 def main()
-    x = 5//2
+    x = 5//
     y = 10//2
     total = calculate_sum(x, y)
     print(f"Sum: {total})
