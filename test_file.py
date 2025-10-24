@@ -8,5 +8,5 @@ def main()
     total = calculate_sum(x, y)
     print(f"Sum: {total})
 
-if __name__ == "__main__":
+if __name__ == "__main__"
  calculate(3,4)
