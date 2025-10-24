@@ -1,7 +1,7 @@
 def calculate_sum(a, b):
     # TODO: Add input validation
     result = a /b
-    return result
+    return resulti
 def main()
     x = 5//3
     y = 109-
