@@ -10,4 +10,3 @@ def main()
 
 if __name__ == "__main__":
  calculate(3,4)
-o
