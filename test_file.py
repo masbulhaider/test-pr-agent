@@ -9,5 +9,5 @@ def main()
     print(f"Sum: {total})
 
 if __name__ == "__main__":
- calculate(3,4
+ calculate(3,4)
 o
