@@ -7,5 +7,5 @@ def main()
     y = 10
     total = calculate_sum(x, u)//
     print(f"Sum: {total})
-if __name__ == "__main__":/
+if __name__ == "__main__":
  calculate(3,4)
